@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/2010psw/movie-app-20-12-07/static/css/main.1d2ff04a.chunk.css",
-    "main.js": "/2010psw/movie-app-20-12-07/static/js/main.7e4402ed.chunk.js",
-    "main.js.map": "/2010psw/movie-app-20-12-07/static/js/main.7e4402ed.chunk.js.map",
-    "runtime-main.js": "/2010psw/movie-app-20-12-07/static/js/runtime-main.76f7d380.js",
-    "runtime-main.js.map": "/2010psw/movie-app-20-12-07/static/js/runtime-main.76f7d380.js.map",
-    "static/js/2.51aa53c5.chunk.js": "/2010psw/movie-app-20-12-07/static/js/2.51aa53c5.chunk.js",
-    "static/js/2.51aa53c5.chunk.js.map": "/2010psw/movie-app-20-12-07/static/js/2.51aa53c5.chunk.js.map",
-    "index.html": "/2010psw/movie-app-20-12-07/index.html",
-    "static/css/main.1d2ff04a.chunk.css.map": "/2010psw/movie-app-20-12-07/static/css/main.1d2ff04a.chunk.css.map",
-    "static/js/2.51aa53c5.chunk.js.LICENSE.txt": "/2010psw/movie-app-20-12-07/static/js/2.51aa53c5.chunk.js.LICENSE.txt"
+    "main.css": "/movie-app-20-12-07/static/css/main.1d2ff04a.chunk.css",
+    "main.js": "/movie-app-20-12-07/static/js/main.7e4402ed.chunk.js",
+    "main.js.map": "/movie-app-20-12-07/static/js/main.7e4402ed.chunk.js.map",
+    "runtime-main.js": "/movie-app-20-12-07/static/js/runtime-main.ab21b221.js",
+    "runtime-main.js.map": "/movie-app-20-12-07/static/js/runtime-main.ab21b221.js.map",
+    "static/js/2.51aa53c5.chunk.js": "/movie-app-20-12-07/static/js/2.51aa53c5.chunk.js",
+    "static/js/2.51aa53c5.chunk.js.map": "/movie-app-20-12-07/static/js/2.51aa53c5.chunk.js.map",
+    "index.html": "/movie-app-20-12-07/index.html",
+    "static/css/main.1d2ff04a.chunk.css.map": "/movie-app-20-12-07/static/css/main.1d2ff04a.chunk.css.map",
+    "static/js/2.51aa53c5.chunk.js.LICENSE.txt": "/movie-app-20-12-07/static/js/2.51aa53c5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.76f7d380.js",
+    "static/js/runtime-main.ab21b221.js",
     "static/js/2.51aa53c5.chunk.js",
     "static/css/main.1d2ff04a.chunk.css",
     "static/js/main.7e4402ed.chunk.js"
